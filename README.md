@@ -121,8 +121,3 @@ TypingSpeedTest/
 <img width="1573" height="403" alt="Screenshot 2026-02-24 194858" src="https://github.com/user-attachments/assets/1809bac0-ef9c-4309-a0ea-1dda30326bc9" />
 
 
-
-
----
-
-⭐ If you like this project, give it a star!
